@@ -1,0 +1,14 @@
+{
+	"discharge": {
+		"references": {
+			"refNr": "0",
+			"bewNr": "",
+			"visit": "0047387389",
+			"patientID": "55656200",
+			"caseID": "0047387389",
+			"institution": "10001",
+			"client": "100",
+			"user": ""
+		}
+	}
+}

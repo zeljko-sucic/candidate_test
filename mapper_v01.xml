@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root name="discharge">
+	<mapper>
+		<source>/json/discharge/references/client</source>
+		<target>/DISCHARGE/CLIENT</target>
+		<comment>client</comment>
+	</mapper>
+	<mapper>
+		<source>/json/discharge/references/caseID</source>
+		<target>/DISCHARGE/PATCASEID</target>
+		<comment>case</comment>
+	</mapper>
+	<mapper>
+		<source>/json/discharge/references/institution</source>
+		<target>/DISCHARGE/INSTITUTION</target>
+		<comment>institution</comment>
+	</mapper>
+</root>

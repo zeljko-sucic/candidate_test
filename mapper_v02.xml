@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root name="discharge">
+	<group source="//json/discharge/references/" target="//DISCHARGE/">
+		<mapper>
+			<source>client</source>
+			<target>CLIENT</target>
+			<comment>client</comment>
+		</mapper>
+		<mapper>
+			<source>caseID</source>
+			<target>PATCASEID</target>
+			<comment>case</comment>
+		</mapper>
+		<mapper>
+			<source>institution</source>
+			<target>INSTITUTION</target>
+			<comment>institution</comment>
+		</mapper>
+	</group>
+</root>
